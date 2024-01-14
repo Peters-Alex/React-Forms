@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  border-style: solid
 }
 
 .logo {
@@ -40,3 +41,8 @@
 .read-the-docs {
   color: #888;
 }
+
+.body {
+  background-color: blue;
+}
+
